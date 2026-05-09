@@ -205,5 +205,4 @@ Then launch the graphical installer and follow the on-screen steps.
 - Built on top of **EndeavourOS** and the **KDE Plasma** desktop
 
 ## Source Code
--Source Code is on Google Drive due to Github's file size limit.
--Source Code is avaible at here: https://drive.google.com/file/d/1_kaIkEbHsbVuBDJqp2mu4ZLs_nm7DT_T/view?usp=drive_link
+-Source Code is avaible on releases
