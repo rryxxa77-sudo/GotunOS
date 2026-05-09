@@ -1,7 +1,0 @@
-
-target/
-pkg/
-cachyos-repo/
-*.tar.zst
-*.zip
-
