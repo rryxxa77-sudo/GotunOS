@@ -192,7 +192,7 @@ Four custom KDE Plasma 6 themes by **MurderFromMars** are included. Preview scre
 Download the `.tar.zst` package and install it with pacman:
 
 ```bash
-sudo pacman -U gotunoS-*.tar.zst
+sudo pacman -U 
 ```
 
 Then launch the graphical installer and follow the on-screen steps.
