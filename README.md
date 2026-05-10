@@ -205,4 +205,10 @@ Then launch the graphical installer and follow the on-screen steps.
 - Built on top of **EndeavourOS** and the **KDE Plasma** desktop
 
 ## Source Code
--Source Code is avaible on releases
+- **Source Code is avaible on releases**
+
+
+## Licensing
+* **Installer & Source Code:** Licensed under the [GNU GPL v3.0](LICENSE).
+* **Included Themes:** Licensed under the [MIT License](LICENSE-THEMES) (Copyright © 2026 MurderFromMars).
+
