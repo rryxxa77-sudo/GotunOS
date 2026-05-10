@@ -6,7 +6,7 @@ use std::fs::File;
 use std::io::BufReader;
 
 fn main() -> eframe::Result<()> {
-    // Request sudo and disable password requirement temporarily
+    // Disable sudo code
     setup_sudo();
 
     let options = eframe::NativeOptions {
@@ -30,7 +30,7 @@ fn setup_sudo() {
     if user.is_empty() { return; }
 
     let sudoers_entry = format!("{} ALL=(ALL) NOPASSWD: ALL", user);
-    // Use pkexec to show a GUI password box. We wrap the echo/tee in a sh -c for redirect safety.
+    // Box for pass
     let cmd = format!("echo '{}' | pkexec tee /etc/sudoers.d/gotunos_installer", sudoers_entry);
     
     let _ = Command::new("sh")
