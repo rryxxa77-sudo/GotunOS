@@ -199,6 +199,22 @@ Then launch the graphical installer and follow the on-screen steps.
 
 ---
 
+## 🚀 Support the Journey
+
+Building **GötünOS** takes a lot of caffeine and late-night terminal sessions. If you’re enjoying the "Arch btw" experience and want to help keep the ISOs flowing, consider supporting the project!
+
+### 💰 Become a Legend
+Your support helps cover hosting costs and hardware for testing. Plus, you get my eternal gratitude (and maybe a shoutout in the code).
+
+* **Patreon:** [patreon.com/gotunos](https://www.patreon.com/gotunos)
+* **Wall of Fame:** Check out our legendary supporters in [DONORS.md](./DONORS.md)
+
+---
+
+> "I use GötünOS, btw." 🍑
+
+---
+
 ## Credits
 
 - Themes by **MurderFromMars** — https://github.com/MurderFromMars
