@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GötünOS Installer
+Comment=Elite System Installation
+Exec=gotunos-installer
+Icon=system-software-install
+Terminal=false
+Type=Application
+Categories=System;
+Keywords=install;gotunos;setup;

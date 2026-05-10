@@ -1,0 +1,10 @@
+[package]
+name = "gotunos_installer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = { version = "0.27", features = ["glow", "persistence"] }
+egui_extras = { version = "0.27", features = ["all_loaders"] }
+image = { version = "0.25", features = ["png"] }
+rand = "0.8"
