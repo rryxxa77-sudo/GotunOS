@@ -221,7 +221,7 @@ Your support helps cover hosting costs and hardware for testing. Plus, you get m
 - Built on top of **EndeavourOS** and the **KDE Plasma** desktop
 
 ## Source Code
-- **Source Code is avaible on releases**
+- **Source Code is avaible on releases compressed as a zip or in repo uncompressed**
 
 
 ## Licensing
