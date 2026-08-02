@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/alex/GotunOS/phase5/build/gotunos-installer-gui_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alex/GotunOS/phase5/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alex/GotunOS/phase5/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alex/GotunOS/phase5",
+	"CMAKE_SOURCE_DIR" : "/home/alex/GotunOS/phase5",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/alex/GotunOS/phase5/build/gotunos-installer-gui_autogen/include",
+	"INPUTS" : [ "/home/alex/GotunOS/phase5/assets/style.qss" ],
+	"LOCK_FILE" : "/home/alex/GotunOS/phase5/build/CMakeFiles/gotunos-installer-gui_autogen.dir/AutoRcc_resources_GBFAFXFCVO_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "GBFAFXFCVO",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/alex/GotunOS/phase5/build/CMakeFiles/gotunos-installer-gui_autogen.dir/AutoRcc_resources_GBFAFXFCVO_Used.txt",
+	"SOURCE" : "/home/alex/GotunOS/phase5/assets/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
