@@ -1,0 +1,14 @@
+# build output
+build/
+build-*/
+cmake-build-*/
+
+# editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# misc
+*.log
+*.user

@@ -1,9 +1,0 @@
-/home/alex/GotunOS/phase5/build/CMakeFiles/gotunos-installer-gui.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/edit_cache.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/rebuild_cache.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/list_install_components.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/install.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/install/local.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/install/strip.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/gotunos-installer-gui_autogen_timestamp_deps.dir
-/home/alex/GotunOS/phase5/build/CMakeFiles/gotunos-installer-gui_autogen.dir

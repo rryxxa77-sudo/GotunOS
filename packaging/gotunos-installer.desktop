@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Install GötünOS
+GenericName=System Installer
+Comment=Install GötünOS to a disk
+Exec=gotunos-installer-gui
+Icon=system-software-install
+Terminal=false
+Categories=System;Settings;
+Keywords=install;installer;setup;
